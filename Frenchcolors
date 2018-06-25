@@ -1,0 +1,20 @@
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+<body>
+<a href="French.html">Back</a>
+<h1>French Numbers</h1>
+<ul>
+<li style="color:red">red-</li>
+<li style="color:orange">orange-</li>
+<li style="color:yellow">yellow-</li>
+<li style="color:green">green-</li>
+<li style="color:blue">blue-</li>
+<li style="color:purple">purple-</li>
+<li style="color:pink">pink-</li>
+<li style="color:white">white-</li>
+<li style="color:grey">grey-</li>
+</ul>
+</body>
+</html>
